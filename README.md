@@ -21,6 +21,9 @@ Pre-loaded Data: Includes a realistic initial dataset tailored to common prescri
 
 How to Use
 
-Prerequisites:You only need Python 3 installed on your system. This script uses only standard Python modules (datetime) and requires no external libraries.
-Save the Code:Save the Python code provided in the next section into a file named medicine_inventory.py.
-Run the Program:Open your terminal or command prompt, navigate to the directory where you saved the file, and run the script: medicine_inventory.py
+Prerequisites:
+You only need Python 3 installed on your system. This script uses only standard Python modules (datetime) and requires no external libraries.
+Save the Code:
+Save the Python code provided in the next section into a file named medicine_inventory.py.
+Run the Program:
+Open your terminal or command prompt, navigate to the directory where you saved the file, and run the script: medicine_inventory.py
